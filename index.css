@@ -1,0 +1,53 @@
+h1 img {
+    width:200px;
+    height:200px;
+    border-radius:150px;
+    border:10px solid lightgray;
+}
+
+
+h2 {
+
+    text-align: left;
+    padding: 20px;
+}
+
+div {
+      border: solid 3px black;
+      width: 80%;
+      margin: 0 auto;
+      padding: 5px;
+   }
+
+legend{
+      border: solid 2px black;
+      padding: 5px;
+      font-weight: bold;
+      border-radius: 20px;
+      background: lightblue;
+   }
+
+   body {
+    background-image: url(verde.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+}
+
+li a{
+    background-color: lightsalmon;
+    width: 200%;
+    list-style-type: none;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+ul {
+    list-style-type: none;
+   
+}
+
+li{
+    list-style-type: none;
+}
